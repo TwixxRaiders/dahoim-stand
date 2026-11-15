@@ -1,5 +1,5 @@
 {
-  "v": "1.10",
-  "notiz": "Doku: feste Annahmen Celsius und mitteleuropäisches Klima beschrieben",
+  "v": "1.31",
+  "notiz": "Livebild für 3D-Drucker, Kameras als Video, Wetter je Tag, Reparaturen in den Meldungen und viele Verbesserungen für jedes Home Assistant",
   "seite": "https://github.com/TwixxRaiders/Dahoim/releases/latest"
 }
