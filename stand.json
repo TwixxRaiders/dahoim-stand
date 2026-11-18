@@ -1,5 +1,5 @@
 {
-  "v": "1.35",
-  "notiz": "Nicht erreichbare Geräte werden gekennzeichnet, Links nach Home Assistant öffnen unter Android die Companion-App",
+  "v": "1.51",
+  "notiz": "Tablets und breite Schirme, Drehen auf Tablets, Sparmodus für langsame Geräte und flüssigeres Wischen",
   "seite": "https://github.com/TwixxRaiders/Dahoim/releases/latest"
 }
